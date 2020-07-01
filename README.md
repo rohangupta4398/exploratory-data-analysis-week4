@@ -1,7 +1,7 @@
 # exploratory-data-analysis-week4
 
 Required data
-The code requires 2 files to run, summarySCC_PM25.rds and Source_Classification_Code.rds, which can be downloaded here: Week 4 Assignment Data
+The code requires 2 files to run, summarySCC_PM25.rds and Source_Classification_Code.rds, which can be downloaded here: [Week 4 Assignment Data](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
 Description
 The scripts plot1.R to plot6.R produce plots (saved as plot1.png, ...) of the following:
